@@ -13,7 +13,7 @@ This project implements two neural network architectures for 5-class sentiment a
 ## Project Structure
 
 ```
-assignment2-2/
+assignment1/
 ├── ffnn.py                  # Feedforward Neural Network implementation
 ├── rnn.py                   # Recurrent Neural Network implementation
 ├── README.md                # This file
