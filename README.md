@@ -1,4 +1,4 @@
-# CS4375 Assignment 2 - Neural Networks for Sentiment Analysis
+# CS4375 Assignment 1 - Neural Networks for Sentiment Analysis
 
 **Full Name:** Purav Patel
 **Net ID:** pxp220084
