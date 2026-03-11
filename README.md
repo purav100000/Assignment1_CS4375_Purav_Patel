@@ -2,7 +2,7 @@
 
 **Full Name:** Purav Patel
 **Net ID:** pxp220084
-**GitHub Repository:** [INSERT GITHUB LINK HERE]
+**GitHub Repository:** https://github.com/purav100000/Assignment1_CS4375_Purav_Patel
 
 ## Overview
 
